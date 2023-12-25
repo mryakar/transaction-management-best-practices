@@ -1,6 +1,5 @@
 package com.mryakar.tmbp.example.bestpractice;
 
-import com.mryakar.tmbp.example.bestpractice.SampleRepository;
 import com.mryakar.tmbp.example.bestpractice.trycatch.ActualService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
